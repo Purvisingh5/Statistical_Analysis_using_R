@@ -1,0 +1,121 @@
+ID,Timestamp,Gender,Like_it,Frequency,Menu,Pizza_size,Restaurants,Factors_Influencing,Satisfied,Size_awareness,Size_rating,Factors_Influencing _Size_,Quality_rating,Order_method,Brand,Reason_for_brand
+1,2024/03/04 12:10:23 PM GMT+5:30,Male,YES,Occasionally,Chicken,8,Dominos,Quality and Quantity,Yes,Partial awareness,4,Appetite,4,Dine-in,Dominos,Quality
+2,2024/03/04 12:13:11 PM GMT+5:30,Female,YES,Occasionally,Margherita,6,Dominos,Quality and Quantity,Yes,Partial awareness,4,No. of people,4,Dine-in,Dominos,Both
+3,2024/03/04 1:41:19 PM GMT+5:30,Female,YES,Occasionally,Vegies,8,Dominos,Quality and Quantity,Yes,Partial awareness,4,No. of people,4,Delivery,Dominos,Both
+4,2024/03/04 2:11:11 PM GMT+5:30,Female,YES,Occasionally,Chicken,8,Pizza express,Quality and Quantity,Yes,Partial awareness,4,No. of people,4,Delivery,Dominos,Both
+5,2024/03/04 3:48:11 PM GMT+5:30,Male,YES,Occasionally,Margherita,8,Dominos,Taste,Yes,Partial awareness,4,Appetite,4,Dine-in,Dominos,Both
+6,2024/03/04 3:54:52 PM GMT+5:30,Female,YES,Occasionally,Chicken,12,Pappa johns,Taste,Yes,"Yes, aware of all options",5,Appetite,5,Delivery,Dominos,Quality
+7,2024/03/04 4:03:28 PM GMT+5:30,Female,YES,Occasionally,Other,6,Dominos,Taste,Yes,"Yes, aware of all options",3,No. of people,4,Delivery,Dominos,Both
+8,2024/03/04 4:07:10 PM GMT+5:30,Female,YES,Occasionally,Chicken,6,Pizza hut,Quality and Quantity,Yes,Partial awareness,5,Occasion,5,Dine-in,Dominos,Both
+9,2024/03/04 4:09:01 PM GMT+5:30,Female,YES,Occasionally,Chicken,8,Dominos,Taste,Yes,Partial awareness,4,No. of people,3,Takeout,Dominos,Quality
+10,2024/03/04 4:10:43 PM GMT+5:30,Male,YES,Occasionally,Other,8,Pizza hut,Quality and Quantity,Yes,"Yes, aware of all options",4,Appetite,3,Dine-in,Dominos,Both
+11,2024/03/04 4:12:47 PM GMT+5:30,Female,YES,Occasionally,Chicken,8,Pizza hut,Price,Yes,Partial awareness,3,No. of people,4,Takeout,Dominos,Both
+12,2024/03/04 4:14:09 PM GMT+5:30,Female,YES,Occasionally,Chicken,12,Dominos,Quality and Quantity,Yes,"Yes, aware of all options",5,No. of people,5,Delivery,Dominos,Both
+13,2024/03/04 4:15:32 PM GMT+5:30,Female,YES,Occasionally,Vegies,8,Dominos,Taste,Yes,"Yes, aware of all options",3,No. of people,4,Delivery,Dominos,Both
+14,2024/03/04 4:16:18 PM GMT+5:30,Male,YES,Twice in a week,Vegies,8,Dominos,Taste,Yes,"No, not aware",4,No. of people,5,Takeout,Dominos,Quality
+15,2024/03/04 4:25:42 PM GMT+5:30,Male,NO,Occasionally,Margherita,8,Pappa johns,Taste,Yes,Partial awareness,3,Appetite,1,Takeout,Pizza hut,Quality
+16,2024/03/04 4:30:18 PM GMT+5:30,Female,YES,Occasionally,Chicken,8,Pizza hut,Quality and Quantity,Yes,"Yes, aware of all options",3,No. of people,4,Delivery,Pizza hut,Both
+17,2024/03/04 4:36:49 PM GMT+5:30,Female,YES,Occasionally,Chicken,6,Dominos,Quality and Quantity,Yes,Partial awareness,3,No. of people,3,Takeout,Dominos,Both
+18,2024/03/04 4:44:27 PM GMT+5:30,Female,YES,Occasionally,Chicken,8,Dominos,Quality and Quantity,Yes,"Yes, aware of all options",4,Occasion,3,Delivery,Dominos,Both
+19,2024/03/04 4:44:31 PM GMT+5:30,Male,YES,Twice in a week,Vegies,6,Dominos,Taste,Yes,"Yes, aware of all options",5,Appetite,4,Delivery,Dominos,Quality
+20,2024/03/04 4:51:41 PM GMT+5:30,Female,YES,Occasionally,Chicken,6,Pizza hut,Taste,Yes,"No, not aware",3,No. of people,4,Delivery,Pizza hut,Quality
+21,2024/03/04 4:53:30 PM GMT+5:30,Male,YES,Daily,Chicken,12,Dominos,Quality and Quantity,Yes,"Yes, aware of all options",2,Appetite,3,Delivery,Pizza hut,Quality
+22,2024/03/04 4:59:00 PM GMT+5:30,Female,YES,Occasionally,Mushroom,8,Dominos,Quality and Quantity,Yes,Partial awareness,3,No. of people,4,Dine-in,Dominos,Quality
+23,2024/03/04 5:02:55 PM GMT+5:30,Female,YES,Occasionally,Chicken,12,Dominos,Taste,Yes,"Yes, aware of all options",4,No. of people,5,Delivery,Dominos,Quantity
+24,2024/03/04 5:13:36 PM GMT+5:30,Female,YES,Occasionally,Mushroom,6,Dominos,Taste,Yes,"Yes, aware of all options",3,Occasion,4,Dine-in,Dominos,Both
+25,2024/03/04 5:18:14 PM GMT+5:30,Female,YES,Occasionally,Vegies,6,Pizza hut,Taste,Yes,"Yes, aware of all options",5,Occasion,3,Dine-in,Pizza hut,Quality
+26,2024/03/04 5:21:31 PM GMT+5:30,Female,YES,Occasionally,Margherita,8,Pizza hut,Quality and Quantity,Yes,Partial awareness,3,Occasion,3,Takeout,Pizza hut,Quality
+27,2024/03/04 5:38:51 PM GMT+5:30,Female,YES,Occasionally,Chicken,8,Dominos,Taste,Yes,"Yes, aware of all options",4,Appetite,4,Delivery,Dominos,Quality
+28,2024/03/04 5:39:04 PM GMT+5:30,Female,YES,Twice in a week,Vegies,12,Pizza hut,Taste,Yes,"Yes, aware of all options",3,Occasion,3,Delivery,Pizza hut,Quality
+29,2024/03/04 5:45:14 PM GMT+5:30,Male,YES,Occasionally,Chicken,12,Dominos,Taste,Yes,"Yes, aware of all options",4,Occasion,4,Delivery,Dominos,Both
+30,2024/03/04 5:47:01 PM GMT+5:30,Female,YES,Occasionally,Vegies,8,Pizza hut,Quality and Quantity,Yes,Partial awareness,4,Occasion,3,Delivery,Dominos,Quality
+31,2024/03/04 5:49:32 PM GMT+5:30,Male,YES,Occasionally,Mushroom,8,Dominos,Taste,Yes,Partial awareness,4,No. of people,4,Dine-in,Dominos,Both
+32,2024/03/04 5:50:39 PM GMT+5:30,Female,YES,Occasionally,Chicken,6,Pizza hut,Quality and Quantity,Yes,"Yes, aware of all options",5,No. of people,5,Dine-in,Pizza hut,Quality
+33,2024/03/04 5:51:05 PM GMT+5:30,Female,YES,Twice in a week,Margherita,12,Dominos,Taste,Yes,"Yes, aware of all options",5,No. of people,4,Takeout,Dominos,Quantity
+34,2024/03/04 5:55:32 PM GMT+5:30,Male,YES,Occasionally,Chicken,8,Dominos,Quality and Quantity,Yes,"Yes, aware of all options",5,Appetite,4,Takeout,Pizza hut,Quality
+35,2024/03/04 5:56:58 PM GMT+5:30,Female,YES,Occasionally,Chicken,8,Dominos,Taste,Yes,"Yes, aware of all options",4,Appetite,4,Dine-in,Dominos,Both
+36,2024/03/04 5:58:34 PM GMT+5:30,Female,YES,Twice in a week,Chicken,8,Dominos,Taste,Yes,"Yes, aware of all options",5,Appetite,2,Delivery,Dominos,Both
+37,2024/03/04 5:58:50 PM GMT+5:30,Female,YES,Thrice in a week,Vegies,8,Dominos,Taste,Yes,"Yes, aware of all options",1,No. of people,2,Dine-in,Dominos,Quality
+38,2024/03/04 5:59:02 PM GMT+5:30,Male,YES,Occasionally,Mushroom,8,Pizza hut,Taste,Yes,Partial awareness,1,No. of people,5,Dine-in,Pizza hut,Both
+39,2024/03/04 6:02:19 PM GMT+5:30,Female,YES,Twice in a week,Chicken,6,Dominos,Quality and Quantity,Yes,"Yes, aware of all options",4,No. of people,1,Delivery,Dominos,Both
+40,2024/03/04 6:04:52 PM GMT+5:30,Female,YES,Occasionally,Vegies,12,Dominos,Taste,Yes,"Yes, aware of all options",3,Occasion,4,Delivery,Dominos,Quality
+41,2024/03/04 6:05:53 PM GMT+5:30,Female,YES,Occasionally,Vegies,6,Dominos,Quality and Quantity,Yes,"Yes, aware of all options",3,Appetite,4,Delivery,Dominos,Both
+42,2024/03/04 6:11:27 PM GMT+5:30,Female,YES,Occasionally,Vegies,6,Pizza hut,Quality and Quantity,Yes,"Yes, aware of all options",4,Occasion,4,Takeout,Pizza hut,Quantity
+43,2024/03/04 6:17:20 PM GMT+5:30,Female,YES,Occasionally,Chicken,8,Dominos,Taste,Yes,"No, not aware",4,Occasion,3,Takeout,Dominos,Quality
+44,2024/03/04 6:17:42 PM GMT+5:30,Female,YES,Occasionally,Chicken,8,Dominos,Taste,Yes,"Yes, aware of all options",5,No. of people,5,Delivery,Dominos,Both
+45,2024/03/04 6:17:59 PM GMT+5:30,Female,YES,Occasionally,Chicken,8,Dominos,Taste,Yes,"Yes, aware of all options",2,No. of people,5,Delivery,Dominos,Both
+46,2024/03/04 6:23:59 PM GMT+5:30,Female,YES,Occasionally,Chicken,12,Dominos,Quality and Quantity,Yes,"Yes, aware of all options",5,No. of people,5,Dine-in,Dominos,Quality
+47,2024/03/04 6:33:19 PM GMT+5:30,Female,YES,Occasionally,Chicken,8,Dominos,Quality and Quantity,Yes,"Yes, aware of all options",3,No. of people,5,Delivery,Dominos,Both
+48,2024/03/04 6:34:10 PM GMT+5:30,Male,YES,Occasionally,Other,8,Other,Quality and Quantity,Yes,Partial awareness,3,No. of people,4,Dine-in,Dominos,Both
+49,2024/03/04 6:35:11 PM GMT+5:30,Male,YES,Occasionally,Margherita,8,Pizza hut,Taste,Yes,"No, not aware",4,No. of people,4,Delivery,Pizza hut,Quality
+50,2024/03/04 6:35:35 PM GMT+5:30,Male,YES,Occasionally,Vegies,8,Pizza hut,Quality and Quantity,Yes,"Yes, aware of all options",5,No. of people,5,Delivery,Pizza hut,Both
+51,2024/03/04 6:35:42 PM GMT+5:30,Female,YES,Occasionally,Chicken,12,Other,Quality and Quantity,Yes,"Yes, aware of all options",5,No. of people,4,Delivery,Pizza hut,Both
+52,2024/03/04 6:37:03 PM GMT+5:30,Male,NO,Occasionally,Vegies,6,Pizza hut,Taste,Yes,Partial awareness,5,Occasion,5,Delivery,Pizza hut,Both
+53,2024/03/04 6:37:58 PM GMT+5:30,Male,YES,Occasionally,Vegies,8,Other,Taste,Yes,Partial awareness,4,Occasion,2,Takeout,Dominos,Both
+54,2024/03/04 6:38:39 PM GMT+5:30,Male,YES,Daily,Chicken,12,Other,Quality and Quantity,Yes,"Yes, aware of all options",5,Appetite,5,Takeout,Pizza hut,Both
+55,2024/03/04 6:38:53 PM GMT+5:30,Male,YES,Occasionally,Vegies,8,Pizza hut,Taste,Yes,"Yes, aware of all options",4,No. of people,4,Delivery,Dominos,Both
+56,2024/03/04 6:40:26 PM GMT+5:30,Female,YES,Occasionally,Margherita,8,Other,Price,No,Partial awareness,5,No. of people,4,Delivery,Dominos,Quality
+57,2024/03/04 6:41:04 PM GMT+5:30,Female,YES,Occasionally,Vegies,6,Dominos,Quality and Quantity,Yes,"Yes, aware of all options",2,Occasion,2,Takeout,Dominos,Quality
+58,2024/03/04 6:43:20 PM GMT+5:30,Male,YES,Occasionally,Chicken,8,Dominos,Quality and Quantity,Yes,"Yes, aware of all options",5,Occasion,4,Dine-in,Dominos,Both
+59,2024/03/04 6:47:04 PM GMT+5:30,Female,YES,Occasionally,Margherita,6,Dominos,Quality and Quantity,Yes,"Yes, aware of all options",4,No. of people,5,Dine-in,Dominos,Both
+60,2024/03/04 6:47:23 PM GMT+5:30,Female,YES,Occasionally,Vegies,6,Dominos,Taste,No,Partial awareness,3,Appetite,3,Delivery,Pizza hut,Both
+61,2024/03/04 6:47:54 PM GMT+5:30,Female,YES,Occasionally,Chicken,6,Dominos,Quality and Quantity,Yes,"Yes, aware of all options",3,No. of people,3,Takeout,Dominos,Both
+62,2024/03/04 6:48:15 PM GMT+5:30,Female,YES,Occasionally,Pepperoni,8,Pizza hut,Taste,Yes,"No, not aware",4,No. of people,5,Delivery,Pizza hut,Both
+63,2024/03/04 6:51:11 PM GMT+5:30,Female,YES,Occasionally,Margherita,6,Dominos,Price,Yes,"Yes, aware of all options",4,Occasion,4,Dine-in,Dominos,Both
+64,2024/03/04 6:53:46 PM GMT+5:30,Female,YES,Occasionally,Chicken,8,Pizza hut,Taste,Yes,"Yes, aware of all options",4,Occasion,5,Dine-in,Pizza hut,Both
+65,2024/03/04 6:56:19 PM GMT+5:30,Female,YES,Occasionally,Chicken,6,Dominos,Quality and Quantity,Yes,"Yes, aware of all options",3,No. of people,5,Delivery,Dominos,Both
+66,2024/03/04 7:00:56 PM GMT+5:30,Male,YES,Occasionally,Chicken,8,Pizza hut,Taste,Yes,Partial awareness,4,Occasion,4,Delivery,Pizza hut,Quantity
+67,2024/03/04 7:01:31 PM GMT+5:30,Male,NO,Occasionally,Chicken,12,Pizza hut,Taste,No,"No, not aware",3,Occasion,4,Dine-in,Pizza hut,Both
+68,2024/03/04 7:10:51 PM GMT+5:30,Male,YES,Occasionally,Chicken,8,Dominos,Quality and Quantity,Yes,Partial awareness,4,Appetite,4,Delivery,Dominos,Both
+69,2024/03/04 7:21:01 PM GMT+5:30,Male,YES,Occasionally,Vegies,8,Dominos,Taste,Yes,"Yes, aware of all options",5,No. of people,5,Delivery,Dominos,Quality
+70,2024/03/04 7:21:20 PM GMT+5:30,Male,YES,Twice in a week,Other,8,Dominos,Taste,Yes,"Yes, aware of all options",4,Occasion,5,Dine-in,Dominos,Quantity
+71,2024/03/04 7:24:25 PM GMT+5:30,Female,NO,Occasionally,Mushroom,6,Other,Quality and Quantity,Yes,"No, not aware",2,Occasion,2,Takeout,Pizza hut,Quantity
+72,2024/03/04 7:25:42 PM GMT+5:30,Male,YES,Occasionally,Vegies,8,Other,Taste,Yes,Partial awareness,4,No. of people,3,Dine-in,Dominos,Both
+73,2024/03/04 7:26:05 PM GMT+5:30,Female,YES,Occasionally,Mushroom,8,Other,Taste,Yes,Partial awareness,3,Occasion,3,Delivery,Dominos,Quality
+74,2024/03/04 7:27:17 PM GMT+5:30,Female,YES,Twice in a week,Chicken,8,Dominos,Price,Yes,"Yes, aware of all options",4,Occasion,5,Delivery,Dominos,Both
+75,2024/03/04 7:42:11 PM GMT+5:30,Female,YES,Daily,Chicken,8,Dominos,Taste,Yes,"Yes, aware of all options",5,Appetite,5,Delivery,Dominos,Quality
+76,2024/03/04 7:49:18 PM GMT+5:30,Female,NO,Occasionally,Mushroom,6,Dominos,Quality and Quantity,Yes,"Yes, aware of all options",5,Occasion,1,Dine-in,Dominos,Both
+77,2024/03/04 7:53:01 PM GMT+5:30,Female,YES,Occasionally,Chicken,8,Dominos,Taste,Yes,"Yes, aware of all options",4,No. of people,4,Takeout,Dominos,Quality
+78,2024/03/04 7:55:49 PM GMT+5:30,Female,YES,Occasionally,Chicken,8,Dominos,Taste,Yes,"Yes, aware of all options",5,Occasion,5,Delivery,Dominos,Quality
+79,2024/03/04 7:56:55 PM GMT+5:30,Female,YES,Occasionally,Margherita,12,Dominos,Quality and Quantity,Yes,Partial awareness,5,Occasion,5,Delivery,Pizza hut,Both
+80,2024/03/04 8:13:14 PM GMT+5:30,Male,YES,Occasionally,Vegies,6,Dominos,Quality and Quantity,Yes,"Yes, aware of all options",3,Appetite,3,Delivery,Dominos,Quantity
+81,2024/03/04 8:15:47 PM GMT+5:30,Female,YES,Twice in a week,Vegies,6,Pizza hut,Taste,No,"Yes, aware of all options",5,Occasion,3,Delivery,Pizza hut,Both
+82,2024/03/04 8:20:44 PM GMT+5:30,Male,YES,Occasionally,Chicken,12,Pizza hut,Quality and Quantity,Yes,"Yes, aware of all options",5,No. of people,5,Delivery,Pizza hut,Both
+83,2024/03/04 8:30:20 PM GMT+5:30,Female,YES,Twice in a week,Margherita,6,Pizza hut,Quality and Quantity,Yes,"Yes, aware of all options",4,Appetite,4,Delivery,Pizza hut,Both
+84,2024/03/04 8:44:30 PM GMT+5:30,Female,YES,Occasionally,Vegies,6,Dominos,Taste,Yes,"Yes, aware of all options",1,Occasion,1,Delivery,Dominos,Both
+85,2024/03/04 8:47:04 PM GMT+5:30,Male,YES,Occasionally,Vegies,8,Dominos,Taste,Yes,Partial awareness,4,No. of people,4,Delivery,Pizza hut,Both
+86,2024/03/04 9:01:12 PM GMT+5:30,Male,YES,Twice in a week,Chicken,6,Dominos,Quality and Quantity,Yes,"Yes, aware of all options",2,No. of people,4,Delivery,Dominos,Quantity
+87,2024/03/04 9:09:14 PM GMT+5:30,Female,YES,Occasionally,Vegies,6,Other,Quality and Quantity,Yes,"Yes, aware of all options",1,No. of people,4,Takeout,Dominos,Quality
+88,2024/03/04 9:11:35 PM GMT+5:30,Male,YES,Occasionally,Mushroom,8,Pizza hut,Quality and Quantity,Yes,"Yes, aware of all options",5,No. of people,5,Delivery,Pizza hut,Both
+89,2024/03/04 9:32:38 PM GMT+5:30,Female,YES,Occasionally,Chicken,8,Dominos,Taste,Yes,"No, not aware",3,No. of people,3,Delivery,Dominos,Both
+90,2024/03/04 9:46:33 PM GMT+5:30,Female,NO,Occasionally,Vegies,6,Pizza hut,Quality and Quantity,Yes,"Yes, aware of all options",4,No. of people,4,Takeout,Pizza hut,Both
+91,2024/03/04 9:49:09 PM GMT+5:30,Male,YES,Occasionally,Chicken,6,Dominos,Taste,Yes,Partial awareness,3,Appetite,3,Delivery,Dominos,Quality
+92,2024/03/04 9:58:33 PM GMT+5:30,Female,YES,Occasionally,Margherita,12,Dominos,Quality and Quantity,Yes,"Yes, aware of all options",5,Occasion,5,Takeout,Dominos,Quality
+93,2024/03/04 10:03:37 PM GMT+5:30,Male,YES,Occasionally,Margherita,8,Dominos,Quality and Quantity,No,Partial awareness,3,Appetite,3,Dine-in,Dominos,Quality
+94,2024/03/04 10:29:08 PM GMT+5:30,Male,YES,Occasionally,Chicken,6,Dominos,Price,No,"Yes, aware of all options",4,Appetite,5,Takeout,Dominos,Quantity
+95,2024/03/04 10:29:30 PM GMT+5:30,Female,YES,Occasionally,Chicken,8,Pizza hut,Quality and Quantity,Yes,"Yes, aware of all options",5,Occasion,5,Delivery,Pizza hut,Both
+96,2024/03/04 10:31:00 PM GMT+5:30,Male,YES,Occasionally,Chicken,12,Pizza hut,Taste,Yes,"Yes, aware of all options",5,No. of people,5,Dine-in,Pizza hut,Both
+97,2024/03/04 10:44:04 PM GMT+5:30,Male,YES,Thrice in a week,Chicken,6,Dominos,Quality and Quantity,Yes,"No, not aware",1,No. of people,2,Takeout,Dominos,Both
+98,2024/03/04 11:01:00 PM GMT+5:30,Female,YES,Occasionally,Chicken,8,Pizza hut,Quality and Quantity,Yes,"Yes, aware of all options",3,No. of people,4,Dine-in,Pizza hut,Quality
+99,2024/03/05 12:22:21 AM GMT+5:30,Male,YES,Occasionally,Chicken,8,Pizza hut,Taste,Yes,"Yes, aware of all options",4,No. of people,4,Delivery,Pizza hut,Both
+100,2024/03/05 7:23:57 AM GMT+5:30,Male,YES,Occasionally,Chicken,8,Other,Taste,Yes,"Yes, aware of all options",5,Occasion,5,Takeout,Dominos,Quality
+101,2024/03/05 8:02:08 AM GMT+5:30,Male,YES,Twice in a week,Chicken,8,Pizza hut,Taste,Yes,"Yes, aware of all options",4,Appetite,5,Dine-in,Dominos,Quality
+102,2024/03/05 8:59:43 AM GMT+5:30,Female,YES,Occasionally,Mushroom,6,Dominos,Price,Yes,"Yes, aware of all options",4,Appetite,4,Delivery,Dominos,Both
+103,2024/03/05 9:12:12 AM GMT+5:30,Male,YES,Occasionally,Chicken,12,Other,Taste,Yes,"Yes, aware of all options",4,Occasion,4,Delivery,Pizza hut,Both
+104,2024/03/05 9:37:49 AM GMT+5:30,Female,YES,Occasionally,Margherita,6,Dominos,Taste,Yes,"Yes, aware of all options",3,No. of people,4,Delivery,Pizza hut,Quality
+105,2024/03/05 9:37:53 AM GMT+5:30,Female,YES,Occasionally,Vegies,8,Dominos,Quality and Quantity,Yes,"Yes, aware of all options",5,Occasion,5,Delivery,Dominos,Both
+106,2024/03/05 9:38:57 AM GMT+5:30,Female,YES,Occasionally,Chicken,6,Dominos,Quality and Quantity,Yes,"Yes, aware of all options",2,No. of people,2,Delivery,Dominos,Both
+107,2024/03/05 9:48:18 AM GMT+5:30,Male,YES,Occasionally,Vegies,6,Pizza hut,Taste,Yes,"Yes, aware of all options",4,Appetite,4,Dine-in,Pizza hut,Both
+108,2024/03/05 10:01:35 AM GMT+5:30,Female,YES,Occasionally,Pepperoni,6,Pizza hut,Quality and Quantity,Yes,Partial awareness,5,No. of people,5,Takeout,Dominos,Both
+109,2024/03/05 11:06:23 AM GMT+5:30,Male,YES,Occasionally,Chicken,8,Dominos,Taste,Yes,Partial awareness,4,No. of people,4,Dine-in,Dominos,Quality
+110,2024/03/05 11:28:21 AM GMT+5:30,Female,YES,Twice in a week,Other,8,Dominos,Taste,Yes,Partial awareness,1,No. of people,4,Delivery,Dominos,Quantity
+111,2024/03/05 11:32:23 AM GMT+5:30,Female,YES,Occasionally,Other,6,Other,Taste,Yes,"Yes, aware of all options",4,No. of people,4,Delivery,Pizza hut,Both
+112,2024/03/05 11:37:04 AM GMT+5:30,Male,YES,Occasionally,Pepperoni,8,Pizza hut,Price,Yes,"Yes, aware of all options",4,No. of people,4,Dine-in,Pizza hut,Both
+113,2024/03/05 11:43:26 AM GMT+5:30,Female,YES,Occasionally,Vegies,8,Dominos,Taste,No,"Yes, aware of all options",4,No. of people,4,Dine-in,Dominos,Quality
+114,2024/03/05 12:33:12 PM GMT+5:30,Female,YES,Occasionally,Margherita,8,Dominos,Taste,Yes,Partial awareness,3,No. of people,4,Dine-in,Dominos,Quality
+115,2024/03/05 12:35:09 PM GMT+5:30,Female,YES,Occasionally,Vegies,6,Dominos,Taste,Yes,"Yes, aware of all options",4,No. of people,3,Delivery,Dominos,Quality
+116,2024/03/05 1:12:22 PM GMT+5:30,Female,YES,Occasionally,Margherita,8,Dominos,Quality and Quantity,Yes,"Yes, aware of all options",4,Appetite,4,Delivery,Dominos,Both
+117,2024/03/05 2:16:31 PM GMT+5:30,Male,YES,Occasionally,Vegies,6,Other,Taste,Yes,Partial awareness,4,Appetite,4,Dine-in,Dominos,Quality
+118,2024/03/05 2:54:56 PM GMT+5:30,Female,NO,Occasionally,Other,6,Other,Quality and Quantity,Yes,"No, not aware",1,Occasion,1,Dine-in,Dominos,Quality
+119,2024/03/05 3:48:14 PM GMT+5:30,Female,YES,Occasionally,Other,6,Dominos,Taste,Yes,Partial awareness,4,No. of people,4,Delivery,Dominos,Quality
+120,2024/03/06 1:14:40 PM GMT+5:30,Female,YES,Occasionally,Chicken,8,Dominos,Taste,Yes,Partial awareness,4,Occasion,4,Delivery,Dominos,Quality
